@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="./gifgithub.gif" alt="GIF" />
+</p>
 
 <h1 align="center">Hi! I'm Manthra Natarajan.</h1>
 
