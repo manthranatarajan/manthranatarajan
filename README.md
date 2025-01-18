@@ -1,15 +1,10 @@
-<h1 align="center">Hi 👋, I'm Manthra Natarajan</h1>
-<h3 align="center">A CS sophomore at UT Dallas</h3>
 
-- 🔭 I’m currently working on **a fullstack project with spotify**
 
-- 🌱 I’m currently learning **backend development and cloud**
+<h1 align="center">Hi! I'm Manthra Natarajan.</h1>
 
-- 👯 I’m looking to collaborate on **hackathons**
+<p align="center">I’m exploring everything from AI to full-stack development and always looking for opportunities to learn and create meaningful projects.</p>
 
-- 💬 Ask me about **making songs with AI**
-
-- 📫 How to reach me **manthra.natarajan108@gmail.com**
+📫 How to reach me **manthra.natarajan108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
