@@ -4,13 +4,13 @@
 
 <h1 align="center">Hi! I'm Manthra Natarajan.</h1>
 
-<p align="center">I’m exploring everything from AI to full-stack development and always looking for opportunities to learn and create meaningful projects.</p>
+<p align="center">I’m exploring everything from computer vision to full-stack development and always looking for opportunities to learn and create meaningful projects.</p>
 
 📫 How to reach me **manthra.natarajan108@gmail.com**
 
 <h3 align="left">Currently Working On:</h3>
 <p align="left">
-  Automating monitoring alert systems for <strong>Smart Data Solutions</strong>.
+  Automating monitoring alert systems for <strong>https://sdata.us/</strong> and CodePath's Open Source Development Capstone.
 </p>
 
 <h3 align="left">Connect with me:</h3>
