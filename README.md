@@ -14,6 +14,7 @@
   <li>data infrastructure</li>
   <li>scalable backend systems</li>
   <li>computer vision</li>
+  <li>full-stack dev</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
